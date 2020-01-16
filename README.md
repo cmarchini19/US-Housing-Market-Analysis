@@ -12,10 +12,10 @@ We will identify which states have done the best and worst over this period, spe
 The purpose of this will be to see what relationships there may be between increasing housing prices with homeowner incomes, housing prices and unemployment, as well as where within the United States is the “best” to live (e.g., affordable homes, higher incomes, low unemployment). 
 
 ## Research Questions to Answer
-What areas in the US have on average the most/least affordable homes between 2008 - 2018? 
-What areas in the US have experienced the highest increase/decrease in housing prices between 2008 - 2018?
-Are things such as debt (e.g., homeowner, student loan), homeowner incomes, and unemployment directly correlated to states that have most/least affordable homes between 2008 - 2018?
-What may the housing market look like in the next couple years based on our findings? 
+* What areas in the US have on average the most/least affordable homes between 2008 - 2018? 
+* What areas in the US have experienced the highest increase/decrease in housing prices between 2008 - 2018?
+* Are things such as debt (e.g., homeowner, student loan), homeowner incomes, and unemployment directly correlated to states that have most/least affordable homes between 2008 - 2018?
+* What may the housing market look like in the next couple years based on our findings? 
 
 ## Datasets to Be Used
 * Zillow Housing Data
