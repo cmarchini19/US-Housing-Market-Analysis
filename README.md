@@ -1,21 +1,20 @@
 # Project Description
 
-The scope of this project is to review United States’ housing data since the housing market collapsed in 2008 and identify how the market has or has not rebounded between then and 2018 nationally. 
+The scope of this project is to review United States’ housing data since the housing market collapsed in 2008 and identify how the market has or has not rebounded between then and 2019 nationally. 
 Key things we will analyze nationally and by state may include but are not limited to the following: 
 
-* Average housing prices homeowner income data
-* Student loan debt data by state
-* Unemployment data by state
-* Homeowner debt ratios by state 
+* Median sales prices for homes and foreclosure resales
+* The top five states where median sales prices increaesed and top five states where prices decreased
+* Consumer/market variables that may affect the median sales prices
+* What prices may look like based on the consumer/market variables 
 
-We will identify which states have done the best and worst over this period, specifically looking at the top five and bottom five states. Additionally, we will identify where homeowners may have a higher barrier to buying a home by looking at prices versus debt to income ratios, household debt, etc.. 
-The purpose of this will be to see what relationships there may be between increasing housing prices with homeowner incomes, housing prices and unemployment, as well as where within the United States is the “best” to live (e.g., affordable homes, higher incomes, low unemployment). 
+The purpose of this analysis is to provide homeowners a tool that allows them to see what the housing market looks like since 2008, how consumer/market factors drive prices, and what prices may be like in the future. 
 
 ## Research Questions to Answer
-* What areas in the US have on average the most/least affordable homes between 2008 - 2018? 
-* What areas in the US have experienced the highest increase/decrease in housing prices between 2008 - 2018?
-* Are things such as debt (e.g., homeowner, student loan), homeowner incomes, and unemployment directly correlated to states that have most/least affordable homes between 2008 - 2018?
-* What may the housing market look like in the next couple years based on our findings? 
+* How have the average median house sales and foreclosure resale rates trended since 2008? 
+* What are the top five states with the highest increases and highest decrease in median house prices since 2008?
+* What consumer/market variables affected median sales prices for homes since 2008?
+* Based on the results of Question 3, what may future median sales prices look like? 
 
 ## Datasets to Be Used
 * Zillow Housing Data
