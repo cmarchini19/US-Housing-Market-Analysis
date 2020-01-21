@@ -1,14 +1,14 @@
 # Project Description
 
-The scope of this project is to review United States’ housing data since the housing market collapsed in 2008 and identify how the market has or has not rebounded between then and 2019 nationally. 
+The scope of this project is to review United States’ housing data since the housing market collapsed in 2008 and identify how the market has or has not rebounded between then and 2019. 
 Key things we will analyze nationally and by state may include but are not limited to the following: 
 
 * Median sales prices for homes and foreclosure resales
-* The top five states where median sales prices increaesed and top five states where prices decreased
+* The top five states where median sales prices increased and top five states where prices decreased
 * Consumer/market variables that may affect the median sales prices
-* What prices may look like based on the consumer/market variables 
+* What future prices may look like based on these consumer/market variables 
 
-The purpose of this analysis is to provide homeowners a tool that allows them to see what the housing market looks like since 2008, how consumer/market factors drive prices, and what prices may be like in the future. 
+The purpose of this analysis is to provide homeowners a tool that allows them to see how the housing market has changed since 2008, how certain consumer/market factors affect prices, and what prices may look like in the future. 
 
 ## Research Questions to Answer
 * How have the average median house sales and foreclosure resale rates trended since 2008? 
